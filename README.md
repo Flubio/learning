@@ -2,6 +2,7 @@
 
 maybe there will be more in this file soon :P
 
+most of this project is referenced from https://www.learncpp.com/cpp-tutorial/
 
 
 ## For later use
