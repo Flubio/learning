@@ -13,3 +13,7 @@ Easy compile on Windows:
    ⮩ navigate to project
       ⮩ $> cl /EHsc <file_to_compile>
 ```
+Compile with gcc/g++:
+```bash
+   g++ <files to compile>
+```
